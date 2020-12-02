@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tradesman-booking-app": {
+      "hosting": {
+        "tradesman-app": [
+          "tradesman-booking-app"
+        ]
+      }
+    }
+  }
+}
